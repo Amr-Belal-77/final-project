@@ -29,10 +29,6 @@ It covers an end-to-end workflow including:
 final-project/
 ├─ notebooks/
 │  └─ 01_final_project.ipynb
-├─ src/                      # (optional later) reusable python modules
-├─ scripts/                  # (optional later) train/eval/predict scripts
-├─ configs/                  # (optional later) yaml configs
-├─ assets/                   # images, diagrams, screenshots
 ├─ .gitignore
 ├─ requirements.txt
 ├─ LICENSE
